@@ -8,7 +8,7 @@ This project is a Rest Api with a manage system of "Fruits' and 'Vegetals" model
 It's a simple  Django Project. 
 
 
-Libraries that used was:
+Libraries that was used:
 
 -- Django
 
